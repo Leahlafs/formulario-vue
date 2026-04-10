@@ -50,7 +50,4 @@ Desarrollado por **Leydi Ana Frias.**
 
 ---
 
-## 💡 Nota
-
-Este proyecto es una práctica enfocada en el manejo de formularios y renderizado dinámico con Vue.js.
 
