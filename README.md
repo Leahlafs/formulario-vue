@@ -1,5 +1,56 @@
-# Vue 3 + Vite
+# 📌 Formulario de Registro con Vue.js
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Aplicación web desarrollada con Vue.js que permite registrar usuarios y visualizar los datos en una tabla de forma dinámica.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+---
+
+## 🚀 Características
+
+* Registro de usuarios (nombre, apellido, género y carrera)
+* Actualización en tiempo real de la tabla
+* Interfaz sencilla y responsive
+* Uso de Vue 
+---
+
+## 🛠️ Tecnologías utilizadas
+
+* Vue.js 3
+* Vite
+* HTML5
+* CSS3
+* JavaScript
+
+---
+
+
+## 🌐 Despliegue
+
+Este proyecto puede ser desplegado fácilmente en plataformas como Render.
+
+---
+
+## 📄 Estructura del proyecto
+
+```bash
+├── src/
+│   ├── components/
+│   ├── App.vue
+│   └── main.js
+├── public/
+├── index.html
+├── package.json
+└── vite.config.js
+```
+
+---
+
+## ✨ Autor
+
+Desarrollado por **Leydi Ana Frias.**
+
+---
+
+## 💡 Nota
+
+Este proyecto es una práctica enfocada en el manejo de formularios y renderizado dinámico con Vue.js.
+
